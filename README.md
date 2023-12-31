@@ -1,8 +1,5 @@
-# React + Vite
+#Nike-Clone
+![image](https://github.com/KaranP666/Nike-Clone/assets/83541879/75d7a90f-3c92-469e-a492-56615c1aae39)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Live Demo
+https://nike-clone-inky-xi.vercel.app/
